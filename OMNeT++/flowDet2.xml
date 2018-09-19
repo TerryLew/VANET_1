@@ -1,0 +1,14 @@
+<additionals>
+    <e3Detector id="flow1a" freq="100.00" file="e3Detector_2.txt" timeThreshold="1.00" speedThreshold="1.39" x="34.98" y="31.97">
+        <detEntry lane="edge1_1" pos="10.00"/>
+        <detExit lane="edge1_1" pos="980.00"/>
+    </e3Detector>
+    <e3Detector id="flow1b" freq="100.00" file="e3Detector_0.txt" timeThreshold="1.00" speedThreshold="1.39" x="44.87" y="9.24">
+        <detEntry lane="edge1_0" pos="10.00"/>
+        <detExit lane="edge1_0" pos="980.00"/>
+    </e3Detector>
+    <e3Detector id="flow2" freq="100.00" file="e3Detector_1.txt" timeThreshold="1.00" speedThreshold="1.39" x="45.77" y="-9.62">
+        <detEntry lane="edge2_0" pos="8.00"/>
+        <detExit lane="edge2_0" pos="490.00"/>
+    </e3Detector>
+</additionals>

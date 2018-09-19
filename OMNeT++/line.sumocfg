@@ -1,0 +1,7 @@
+<configuration>
+    <input>
+       <net-file value="/usr/local/bin/veins-veins-4.6/examples/VANET1_2roads/line2.net.xml" />
+       <route-files value="line.rou.xml" />
+       <additional-files value="flowDet2.xml" />
+    </input>
+</configuration>

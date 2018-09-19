@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- debug config -->
+<launch>
+	<copy file="line2.net.xml" />
+	<copy file="line.rou.xml" />
+	<copy file="line.sumocfg" type="config" />
+	<copy file="flowDet2.xml" />
+</launch>
+

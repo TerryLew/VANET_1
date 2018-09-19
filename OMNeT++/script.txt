@@ -1,0 +1,3 @@
+opp_run -r 0 -m -u Cmdenv -n .:../../src/veins --image-path=../../images -l ../../src/veins "omnetpp.ini"
+
+3Mbps, 4.5Mbps, 6Mbps, 9Mbps, 12Mbps, 18Mbps, 24Mbps and 27Mbps
