@@ -33,8 +33,6 @@ class TraCIDemoRSU11p : public BaseWaveApplLayer {
 		virtual void onWSM(WaveShortMessage* wsm);
 		virtual void onWSA(WaveServiceAdvertisment* wsa);
 		std::vector<std::vector<double> > v;
-    //std::unordered_map<std::string, int> flow={{"edge1",0},{"edge4",0}};
-    //int cnt = 0;
 	public:
 		~TraCIDemoRSU11p();
 };
